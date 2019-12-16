@@ -47,6 +47,8 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 * **Nudity** - Classifies an image either as NSFW (nude) or SFW (not nude)
  [Download](https://drive.google.com/open?id=0B5TjkH3njRqncDJpdDB1Tkl2S2s) | [Demo](https://github.com/ph1ps/Nudity-CoreML) | [Reference](https://github.com/yahoo/open_nsfw)
 * **TextRecognition (ML Kit)** - Recognizing text using ML Kit built-in model in real-time. [Download]() | [Demo](https://github.com/tucan9389/TextRecognition-MLKit) | [Reference](https://firebase.google.com/docs/ml-kit/ios/recognize-text)
+* **ImageSegmentation** - Segment the pixels of a camera frame or image into a predefined set of classes. [Download](https://developer.apple.com/machine-learning/models/) | [Demo](https://github.com/tucan9389/ImageSegmentation-CoreML) | [Reference](https://github.com/tensorflow/models/tree/master/research/deeplab)
+* **DepthPrediction** - Predict the depth from a single image. [Download](https://developer.apple.com/machine-learning/models/) | [Demo](https://github.com/tucan9389/DepthPrediction-CoreML) | [Reference](https://github.com/iro-cp/FCRN-DepthPrediction)
 
 
 ## Image - Image
@@ -108,4 +110,3 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 # Contributing and License
 * [See the guide](https://github.com/likedan/Awesome-CoreML-Models/blob/master/.github/CONTRIBUTING.md)
 * Distributed under the MIT license. See LICENSE for more information.
-
